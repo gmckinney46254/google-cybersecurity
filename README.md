@@ -1,6 +1,7 @@
 # Google Cybersecurity Professional Certificate
 
-![Certificate of completion for Google Cybersecurity Professional Certificate for Ethan Silvas](./General/Certificate.png)
+![Certificate of completion for Google Cybersecurity Professional Certificate for Ethan Silvas] ![image](https://github.com/user-attachments/assets/4f2f7c1a-7092-47b9-903e-f03bca8bd268)
+
 
 This repo holds all of the projects, notes, and write-ups I have done while completing the [Google Cybersecurity Professional Certificate](https://grow.google/certificates/cybersecurity/#?modal_active=none).
 
